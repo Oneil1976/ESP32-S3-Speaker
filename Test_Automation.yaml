@@ -1,0 +1,52 @@
+alias: Test_media player
+description: ''
+triggers:
+  - trigger: button.pressed
+    target:
+      entity_id: input_button.helper_button
+    options: {}
+conditions: []
+actions:
+  - action: media_player.play_media
+    metadata: {}
+    target:
+      entity_id: >-
+        media_player.esteneviem_esp32_s3_speaker_esp32_speaker_audio_media_player
+    data:
+      media:
+        media_content_id: media-source://radio_browser/a39a5e69-81c7-4823-aabd-202472fc644b
+        media_content_type: audio/mpeg
+        metadata:
+          title: RÁDIO EXPRES
+          thumbnail: https://i.imgur.com/Q7pqtwX.png
+          media_class: music
+          children_media_class: null
+          navigateIds:
+            - {}
+            - media_content_type: app
+              media_content_id: media-source://radio_browser
+          browse_entity_id: >-
+            media_player.esteneviem_esp32_s3_speaker_esp32_speaker_audio_media_player
+    enabled: false
+  - action: media_player.volume_set
+    metadata: {}
+    target:
+      entity_id: >-
+        media_player.esteneviem_esp32_s3_speaker_esp32_speaker_audio_media_player
+    data:
+      volume_level: 0.26
+  - action: media_player.media_play_pause
+    metadata: {}
+    target:
+      entity_id: >-
+        media_player.esteneviem_esp32_s3_speaker_esp32_speaker_audio_media_player
+    data: {}
+    enabled: true
+  - action: light.toggle
+    metadata: {}
+    target:
+      entity_id: light.esteneviem_esp32_s3_speaker_onboard_rgb_led
+    data:
+      color_temp_kelvin: 4091
+      brightness_pct: 54
+mode: single
