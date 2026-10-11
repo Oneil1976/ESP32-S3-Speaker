@@ -8,6 +8,7 @@ First trial was executed based on <https://github.com/rgnyldz/rgnlabs-mediaplaye
 Next trial was with modul MAX98357A  
 ### This solution Run 
 <https://allegro.sk/ponuka/dac-dekoder-i2s-audio-modul-zosilnovac-max98357-17603273331>  
+https://github.com/Oneil1976/ESP32-S3-Speaker/blob/d93f8b3d5ce7da7ca9fdfe52a74f0a09fcbbcd45/Sources.md
 
 
 
