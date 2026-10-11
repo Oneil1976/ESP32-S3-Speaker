@@ -10,10 +10,9 @@ Next trial was with modul MAX98357A
 
 Source model for Speaker Laser Cut file
 <https://cad.onshape.com/documents/bd921101e99388c22b57ea89/w/8affbd9cf3b59af87c41d7c9/e/1ebdb2714b9f8e9c8cca2bf6?renderMode=0&uiState=6aca5dd47bc6fb7797328f41>  
-
-![SVG otvoru pre reproduktor](/Assets/Drawing 2.svg)  
 <img align="left" alt="C" width="200px" src="/Assets/Drawing 2.svg" />  
 
+  
 
 
 
