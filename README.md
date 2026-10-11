@@ -20,4 +20,6 @@ Source model for Speaker Laser Cut file
 Nakoniec som esp32 zabudoval do starého reproduktora od domáceho kina takze som neriešil zabudovanie do krabice. každopádne som si krabicu s reproduktorom urobil z elektroinštalačnej krabice scame. otvor pre repro som vyrezal laserom Vid priložený súbor pre LaserGrbl.  
 <img align="left" alt="image" width="200px" src="/Assets/Drawing 2.svg" />  
 <img align="left" alt="image" width="200px" src="/Assets/Home made speaker.jpg" />  
- 
+<img align="left" alt="image" width="200px" src="/Assets/Speaker front clip.jpg" />  
+<img width="563" height="450" alt="image" src="https://github.com/user-attachments/assets/60c54b38-eaf6-402d-aa95-72ebefbb2ce6" />
+
