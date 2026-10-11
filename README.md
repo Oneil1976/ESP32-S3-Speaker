@@ -26,3 +26,5 @@ Nakoniec som esp32 zabudoval do starého reproduktora od domáceho kina takze so
 <img alt="image" width="200px" src="/Assets/Speaker front clip.jpg" />  
 <img width="563" height="450" alt="image" src="https://github.com/user-attachments/assets/60c54b38-eaf6-402d-aa95-72ebefbb2ce6" />  
 https://github.com/Oneil1976/ESP32-S3-Speaker/blob/3bbe0532c04ce97a8351c7ef4190e8aaa220afa5/stl/Speaker%20Front%20Clip.stl
+
+### Final assembly
