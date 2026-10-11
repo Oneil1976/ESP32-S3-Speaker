@@ -13,13 +13,11 @@ Next trial was with modul MAX98357A
 
 Source model for Speaker Laser Cut file
 <https://cad.onshape.com/documents/bd921101e99388c22b57ea89/w/8affbd9cf3b59af87c41d7c9/e/1ebdb2714b9f8e9c8cca2bf6?renderMode=0&uiState=6aca5dd47bc6fb7797328f41>  
-<img align="left" alt="image" width="200px" src="/Assets/Drawing 2.svg" />  
 
-
-  
 
 
 
 Nakoniec som esp32 zabudoval do starého reproduktora od domáceho kina takze som neriešil zabudovanie do krabice. každopádne som si krabicu s reproduktorom urobil z elektroinštalačnej krabice scame. otvor pre repro som vyrezal laserom Vid priložený súbor pre LaserGrbl.  
 <img align="left" alt="image" width="200px" src="/Assets/Drawing 2.svg" />  
-<Assets/Drawing 2.svg>  
+<img align="left" alt="image" width="200px" src="/Assets/Home made speaker.jpg" />  
+ 
