@@ -64,7 +64,7 @@ speaker:
     
 media_player:
   - platform: speaker
-    name: ESP32-Speaker Audio Media Player
+    name: ESP32-S3-Speaker Audio Media Player
     id: media_player_speaker_1
     announcement_pipeline:
       id: media_player_speaker_1_announcement_pipeline
