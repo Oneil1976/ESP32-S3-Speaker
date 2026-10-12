@@ -7,11 +7,12 @@ First trial was executed based on <https://github.com/rgnyldz/rgnlabs-mediaplaye
 
 Next trial was with modul MAX98357A  
 ### This solution Run 
-<https://allegro.sk/ponuka/dac-dekoder-i2s-audio-modul-zosilnovac-max98357-17603273331>  
+<https://allegro.sk/produkt/zosilnovac-cn-max98357-af7e3404-649b-4bd1-b05c-afcbe16e3508?offerId=17603273331>
+<https://allegro.sk/produkt/mikropocitac-cn-esp32-s3-n16r8-devkit-50592fba-65b2-442e-a399-dfb053475ee8?offerId=18653673710>
 
   
 https://github.com/Oneil1976/ESP32-S3-Speaker/blob/d93f8b3d5ce7da7ca9fdfe52a74f0a09fcbbcd45/Sources.md
-
+<https://allegro.sk/produkt/mikropocitac-cn-esp32-s3-n16r8-devkit-50592fba-65b2-442e-a399-dfb053475ee8?offerId=18653673710>
 
 
 Source model for Speaker Laser Cut file
